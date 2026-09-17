@@ -1,4 +1,4 @@
-# recur-scan
+# Recur-scan
 
 A machine learning system for identifying recurring financial transactions from bank data.
 
